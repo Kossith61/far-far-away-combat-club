@@ -12,7 +12,7 @@
         <img
           :src="coach.image"
           :alt="coach.name"
-          class="w-30 h-30 rounded-full object-cover border-4"
+          class="w-30 h-30 rounded-full object-cover border-4 hover:scale-105"
         />
         <div>
           <h3 class="text-xl font-bold text-[#61de2a]">{{ coach.name }}</h3>

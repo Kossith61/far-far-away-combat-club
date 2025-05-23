@@ -34,7 +34,7 @@
         <img
           src="/src/assets/shrek-coaching.jpg"
           alt="coaching"
-          class="w-full h-80 object-cover rounded-xl shadow-lg"
+          class="w-full h-100 object-cover rounded-xl shadow-lg"
         />
       </div>
     </div>

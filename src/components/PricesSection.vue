@@ -8,7 +8,7 @@
       <div
         v-for="(category, index) in pricing"
         :key="index"
-        class="rounded-2xl p-5 shadow-md bg-black border border-green-500"
+        class="hover:scale-105 rounded-2xl p-5 shadow-md bg-black border border-green-500"
       >
         <h3 class="text-xl font-semibold text-[#61de2a] mb-2">
           {{ category.title }}
