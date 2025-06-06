@@ -10,7 +10,7 @@ It features a weekly training schedule, contact form via FormSubmit, and an AI-p
 - Responsive weekly training schedule with smooth scroll  
 - Shrek-inspired green color palette  
 - AI chatbot powered by [Chatbase](https://www.chatbase.co/)  
-- Secure contact form using [FormSubmit](https://formsubmit.co/) (no backend required)  
+- Secure contact form using [FormSpree](https://formspree.io/) (no backend required)  
 - Built with Vue 3 and Tailwind CSS
 
 ---
