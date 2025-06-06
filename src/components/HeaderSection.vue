@@ -5,7 +5,7 @@
       <div class="flex items-center space-x-2">
         <p class="hover:text-[#61de2a] transition-colors text-xl">
           <router-link to="/"
-            ><img src="/src/assets/logo.png" alt="logo" class="h-40 w-auto"
+            ><img src="/assets/logo.png" alt="logo" class="h-40 w-auto"
           /></router-link>
         </p>
       </div>
@@ -49,6 +49,4 @@
   </header>
 </template>
 
-<script setup>
-
-</script>
+<script setup></script>
