@@ -32,7 +32,7 @@
       <!-- Image Block -->
       <div class="grid grid-cols-1 gap-4">
         <img
-          src="/src/assets/shrek-coaching.jpg"
+          src="/assets/shrek-coaching.jpg"
           alt="coaching"
           class="w-full h-100 object-cover rounded-xl shadow-lg"
         />
