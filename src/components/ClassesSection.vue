@@ -36,37 +36,37 @@ const classes = [
     title: "MMA",
     description:
       "Mixed Martial Arts class combining striking and grappling techniques from various disciplines like Boxing, Muay Thai, BJJ, and Wrestling.",
-    image: "/src/assets/shrek-in-shirt.png",
+    image: "/assets/shrek-in-shirt.png",
   },
   {
     title: "Muay Thai",
     description:
       "Thai kickboxing that emphasizes powerful strikes using fists, elbows, knees, and shins with clinch work and conditioning.",
-    image: "/src/assets/striking-area.jpg",
+    image: "/assets/striking-area.jpg",
   },
   {
     title: "Boxing",
     description:
       "Focus on punches, footwork, defense, and conditioning. Great for striking skill and cardio.",
-    image: "/src/assets/ring-image.jpg",
+    image: "/assets/ring-image.jpg",
   },
   {
     title: "Brazilian Jiu-Jitsu (BJJ)",
     description:
       "Grappling-based martial art specializing in ground control, submissions, and positional strategy.",
-    image: "/src/assets/Big-bad-wolf.png",
+    image: "/assets/Big-bad-wolf.png",
   },
   {
     title: "Wrestling",
     description:
       "Takedown-focused grappling class emphasizing control, positioning, and explosive movements.",
-    image: "/src/assets/bjj-mats-2.jpg",
+    image: "/assets/bjj-mats-2.jpg",
   },
   {
     title: "Yoga",
     description:
       "Morning sessions to improve flexibility, mobility, recovery, and mental clarity. Perfect for combat athletes.",
-    image: "/src/assets/yoga-image.png",
+    image: "/assets/yoga-image.png",
   },
 ];
 </script>
