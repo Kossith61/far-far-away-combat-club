@@ -31,58 +31,58 @@ const coaches = [
     role: "Head MMA Coach",
     description:
       "The only coach who deadlifts trees. Believes every round should start with a roar. Doesn’t do rest days. Does mud baths",
-    image: "/src/assets/shrek-coach-photo.jpg",
+    image: "/assets/shrek-coach-photo.jpg",
   },
   {
     name: "Fiona",
     role: "Women’s MMA Coach",
     description:
       "Can throw a roundhouse kick in a wedding dress and look good doing it.",
-    image: "/src/assets/fiona-coach.png",
+    image: "/assets/fiona-coach.png",
   },
   {
     name: "Donkey",
     role: "Motivation Coach",
     description: "Annoying? Absolutely. Effective? Weirdly, yes.",
-    image: "/src/assets/donkey-coach.png",
+    image: "/assets/donkey-coach.png",
   },
   {
     name: "Puss in Boots",
     role: "Muay Thai & Footwork Coach",
     description:
       "Will teach you elegance in combat — and then pick your pocket.",
-    image: "/src/assets/puss-in-boots.png",
+    image: "/assets/puss-in-boots.png",
   },
   {
     name: "Pinocchio",
     role: "Tactics and Yoga Coach",
     description: "Helps you lie your way into a victory.",
-    image: "/src/assets/Pinocchio_Profile.png",
+    image: "/assets/Pinocchio_Profile.png",
   },
   {
     name: "Gingy",
     role: "Nutrition Coach",
     description: "He will tell you to cut sugar while literally made of it.",
-    image: "/src/assets/Gingerbread_Man_Profile.png",
+    image: "/assets/Gingerbread_Man_Profile.png",
   },
   {
     name: "Three Little Pigs",
     role: "Wrestling Coaches",
     description:
       "A powerhouse trio. Takedowns, chain wrestling, and control fundamentals.",
-    image: "/src/assets/Three-pigs.png",
+    image: "/assets/Three-pigs.png",
   },
   {
     name: "Big Bad Wolf",
     role: "BJJ Coach",
     description: "Quiet but dangerous.",
-    image: "/src/assets/Big-bad-wolf.png",
+    image: "/assets/Big-bad-wolf.png",
   },
   {
     name: "Doris the Ugly Stepsister",
     role: "Boxing Coach",
     description: "Don’t complain, or she’ll spar with you herself.",
-    image: "/src/assets/Doris.png",
+    image: "/assets/Doris.png",
   },
 ];
 </script>
