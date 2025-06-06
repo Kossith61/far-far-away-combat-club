@@ -1,5 +1,4 @@
 <template>
-  <!-- Компонент не отображает UI, просто подключает Chatbase -->
   <div></div>
 </template>
 
